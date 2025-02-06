@@ -14,8 +14,7 @@ Snippetbox is a simple web application that allows users to paste and share snip
 ## Tech Stack
 
 - **Go** – Backend logic and request handling.
-- **PostgreSQL** – Database for storing snippets.
+- **MySQL** – Database for storing snippets.
 - **HTML, CSS** – Frontend UI design.
-- **Bootstrap (Optional)** – Responsive styling.
-- **Nginx (Optional)** – Reverse proxy and server configuration.
+- **Nginx** – Reverse proxy and server configuration.
 
